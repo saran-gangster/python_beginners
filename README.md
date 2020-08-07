@@ -117,4 +117,7 @@ star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 You may use this tutorial freely at your own risk. See
 [LICENSE](./LICENSE).
 
-[List of contents](./README.md#list-of-contents)
+[List of contents](./README.md#list-of-contents)\
+all credits go to the author (see above)\
+i have nearly wrapped this content for beginners more friendly
+all thanks to Akuli
