@@ -119,5 +119,5 @@ You may use this tutorial freely at your own risk. See
 
 [List of contents](./README.md#list-of-contents)\
 all credits go to the author (see above)\
-i have nearly wrapped this content for beginners more friendly
+i have merely wrapped this content for beginners more friendly
 all thanks to Akuli
