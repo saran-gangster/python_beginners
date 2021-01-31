@@ -102,10 +102,6 @@ with doing it this way is that you don't need to download the whole
 tutorial again to get the latest version of it, all you need to do is to
 pull with git and run `make-html.py` again.
 
-## Authors
-
-I'm Akuli and I have written most of this tutorial, but other people have helped me with it.
-See [github's contributors page](https://github.com/saran-gangster/python_beginners/graphs/contributors) for details.
 
 ***
 
